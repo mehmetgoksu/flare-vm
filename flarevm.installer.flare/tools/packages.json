@@ -2,7 +2,7 @@
     "packages": [
         {"name": "cmdermini.flare"},
         {"name": "dotnet4.6.2"},
-        {"name": "dotnet4.7.1"},
+        
 
 
         {"name": "ollydbg.flare"},
@@ -23,8 +23,7 @@
         {"name": "scdbg.flare"},
 
 
-        {"name": "idafree70.flare", "x64Only": true},
-        {"name": "idafree.flare"},
+        
         {"name": "binaryninja.flare"},
         {"name": "radare2.flare"},
         {"name": "cutter.flare"},
